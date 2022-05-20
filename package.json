@@ -1,0 +1,19 @@
+{
+  "name": "learn_solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mae-zung/learn_solidity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mae-zung/learn_solidity/issues"
+  },
+  "homepage": "https://github.com/mae-zung/learn_solidity#readme"
+}
